@@ -8,3 +8,5 @@ Next semester I will start backend development with PHP and SQL. 👨‍🎓👨
 In the future I would like to dedicate myself professionally to Front End development with React, I don't rule out 100% the server side as I consider it the core of any important platform. 
 
 Without further ado I leave you with my GitHub account so you can get ideas and give me feedback on the small projects I'm uploading. 🫂
+
+Helping to build Nexbi.pro (>‿◠)✌
